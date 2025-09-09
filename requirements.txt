@@ -1,0 +1,6 @@
+langchain
+langchain-ollama
+langchian-community
+langraph
+matplotlib
+pygame

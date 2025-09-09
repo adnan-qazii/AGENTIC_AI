@@ -1,6 +1,7 @@
 langchain
 langchain-ollama
-langchian-community
-langraph
+langchain-community
+langgraph
 matplotlib
 pygame
+langchain-groq
